@@ -13,6 +13,6 @@ print(10%3)
 # aprovado = nota >= media
 # print(aprovado)
 
-nome_completo = input("Nome completo: ")
-idade = int(input("Idade: "))
-altura = float(input("Altura: "))
+nome_completo = input("\nNome completo: ")
+idade = int(input("\nIdade: "))
+altura = float(input("\nAltura: "))
